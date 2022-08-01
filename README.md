@@ -2,13 +2,9 @@
 
 - [Remix Docs](https://remix.run/docs)
 
-## Deployment
-
-Auto deployment via vercel.
-
 ## Development
 
-To run locally,
+Install dependencies first,
 
 ```sh
 yarn
@@ -20,7 +16,7 @@ Install husky git hooks (Important!)
 yarn prepare
 ```
 
-Afterwards, start the Remix development server like so:
+Afterwards, start the Remix development server locally like so:
 
 ```sh
 yarn dev
