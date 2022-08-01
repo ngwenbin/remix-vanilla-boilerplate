@@ -14,13 +14,13 @@ To run locally,
 yarn
 ```
 
-Afterwards, start the Remix development server like so:
-
-Install husky git hooks (IMPT!)
+Install husky git hooks (Important!)
 
 ```sh
 yarn prepare
 ```
+
+Afterwards, start the Remix development server like so:
 
 ```sh
 yarn dev
